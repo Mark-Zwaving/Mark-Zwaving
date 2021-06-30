@@ -2,7 +2,7 @@
 
 👀 I’m interested in (web-)programming. 
 
-📫 Best to reach me is via email <markzwaving@gmail.com>
+📫 Best to reach me is via my email markzwaving@gmail.com
 
 <!---
 Mark-Zwaving/Mark-Zwaving is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
