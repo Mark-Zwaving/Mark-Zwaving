@@ -1,6 +1,6 @@
 👋 Hi, I’am Mark-Zwaving
 
-👀 I’m interested in (web-)programming. 
+👀 I’m interested in all variants of (web-)programming. 
 
 📫 Best to reach me is by email markzwaving@gmail.com
 
